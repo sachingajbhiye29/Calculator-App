@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculus</string>
+    <string name="c">C</string>
+    <string name="backspace">backspaceBTN</string>
+    <string name="parenthesis">()</string>
+    <string name="Exponent">^</string>
+    <string name="Division">÷</string>
+    <string name="sevenBTN">7</string>
+    <string name="eightBTN">8</string>
+    <string name="nineBTN">9</string>
+    <string name="multiplyBTN">×</string>
+    <string name="sixBTN">6</string>
+    <string name="fiveBTN">5</string>
+    <string name="fourBTN">4</string>
+    <string name="addBTN">+</string>
+    <string name="threeBTN">3</string>
+    <string name="twoBTN">2</string>
+    <string name="oneBTN">1</string>
+    <string name="minusBTN">-</string>
+    <string name="plusminusBTN">+/-</string>
+    <string name="zeroBTN">0</string>
+    <string name="dotBTN">.</string>
+    <string name="equalsBTN">=</string>
+    <string name="EnterNumber" />
+    <string name="_0">0</string>
+</resources>
